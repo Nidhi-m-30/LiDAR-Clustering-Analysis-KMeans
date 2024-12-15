@@ -44,9 +44,7 @@ A plot generated from the script showcases:
 
 1. Clustered points based on KMeans output.
 2. Outliers marked in **blue**.
-3. Misclassified points marked in **red** with a black edge.
-
-![Example Visualization](images/example_visualization.png)
+3. Misclassified points marked in **red cross** with a black edge.
 
 ---
 
